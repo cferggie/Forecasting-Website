@@ -1,14 +1,12 @@
 # Forecasting-Website
-This repository contains my website that predicts the next days price of NVIDIA using a variety of forecasting methods and tracks the performance of each model. I could see this website eventually being my home for of my dev work. 
+Problem Statement: Are the forecasting methods taught in the classroom profitable trading strategies?
 
-I created this project to refresh and improve upon my time series analysis skills. Additionally, this website allows me to improve my web dev skills. 
-
-**I know how to apply all these models with R, but I will be using python only since I am adding more libraries to my repertoire!
+This repository contains all the code and data that I will be using to predict the next days price of NVIDIA (NVDA). This project will be used as a refresher/learning course for me. I have implemented the models in this repository using R before, but this project will be based in Python, which I have not used for traditional forecasting methods. All of my code will provide in-depth explanations incase someone who is learning forecasting stumbles upon this repository. I will have my code drafts in the repository, which will be updated daily. 
 
 Models to use for forecasting
-- AR/ARIMA
 - Regression based (lags)
 - Smoothing models
+- AR/ARIMA
 - LSTM
 - Maybe up down forecast w Logit?
 - Random Walk or coin flip comparison
