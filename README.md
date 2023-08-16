@@ -4,7 +4,7 @@ Problem Statement: Are the forecasting methods taught in the classroom profitabl
 This repository contains all the code and data that I will be using to predict the next days price of NVIDIA (NVDA). This project will be used as a refresher/learning project for me. I want to improve upon my ML skills and solidify my traditional forecasting knowledge, and hopefully teach others that find this page along the way! I have implemented the models in this repository using R before, but this project will be based in Python, which I have not used for traditional forecasting methods. All of my code will provide in-depth explanations. I will have my code drafts in the repository, which will be updated daily. 
 
 Models to use for forecasting
-- Regression based (lags)
+- Regression based ((AR model)
 - Smoothing models
 - AR/ARIMA
 - LSTM
