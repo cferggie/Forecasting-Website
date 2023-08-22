@@ -7,7 +7,7 @@ Finished product: Website that contains daily forecasting and trading updates. A
 
 Models to use for forecasting
 - Smoothing models
-- Autoregressive Model
+- Autoregressive Model/Moving Average Model
 - ARMA/ARIMA
 - LSTM
 - Maybe up down forecast w Logistic Regression?
