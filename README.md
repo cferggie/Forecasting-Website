@@ -6,11 +6,11 @@ This repository contains all the code and data that I will be using to predict t
 Finished product: Website that contains daily forecasting and trading updates. Additionally, there will be videos to watch to teach yourself the basics of forecasting.
 
 Models to use for forecasting
-- Regression based (AR model)
 - Smoothing models
-- AR/ARIMA
+- Autoregressive Model/Moving Average Model
+- ARMA/ARIMA
 - LSTM
-- Maybe up down forecast w Logit?
+- Maybe up down forecast w Logistic Regression?
 - Random Walk or coin flip comparison
 
 Sources:
