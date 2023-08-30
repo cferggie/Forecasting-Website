@@ -14,8 +14,8 @@ Models to use for forecasting
 - Random Walk or coin flip comparison
 
 Sources:
-https://economics.ut.ac.ir/documents/3030266/14100645/Jeffrey_M._Wooldridge_Introductory_Econometrics_A_Modern_Approach__2012.pdf
-https://vipul-bhatt.github.io/Econ-483-Notes/           (Shoutout Prof. Bhatt @ James Madison University)
-https://www.sas.upenn.edu/~fdiebold/Teaching221/FullBook.pdf
-https://otexts.com/fpp2/
+- https://economics.ut.ac.ir/documents/3030266/14100645/Jeffrey_M._Wooldridge_Introductory_Econometrics_A_Modern_Approach__2012.pdf
+- https://vipul-bhatt.github.io/Econ-483-Notes/           (Shoutout Prof. Bhatt @ James Madison University)
+- https://www.sas.upenn.edu/~fdiebold/Teaching221/FullBook.pdf
+- https://otexts.com/fpp2/
 
